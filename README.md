@@ -104,7 +104,7 @@
   <a href="https://medium.com/@saboor.ml.233" target="_blank">
     <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white" />
   </a>
-  <a href="mailto:saboor.ml.233@gmail.com">
+  <a href="saboortahir453@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
