@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Saboor Tahir</h1>
 <h3 align="center">🚀 Bridging Frontend Aesthetics with Backend Logic</h3>
 
@@ -61,6 +60,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saboorkhan233&theme=algolia&no-bg=true&no-frame=true" alt="Trophies" />
+</p>
+
+---
+
 ### ✍️ Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -72,6 +79,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saboorkhan233&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=saboorkhan233&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saboorkhan233&layout=compact&theme=algolia&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+### 🧠 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saboorkhan233&theme=algolia&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
